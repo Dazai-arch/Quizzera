@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="title_activity_user_database_helper">UserDatabaseHelper</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_preference_helper">PreferenceHelper</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string-array name="options_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+    </string-array>
+    <string name="title_activity_custom_quiz">CustomQuiz</string>
+</resources>
